@@ -5,5 +5,5 @@ ipywidgets
 pandas
 matplotlib
 numexpr
-qiskit-aer
+qiskit-aer==0.10.4
 
