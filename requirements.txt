@@ -1,0 +1,9 @@
+qiskit==0.46
+numpy
+jupyterlab
+ipywidgets
+pandas
+matplotlib
+numexpr
+qiskit-aer
+
