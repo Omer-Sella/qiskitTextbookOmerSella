@@ -21,3 +21,5 @@ the textbook is a Jupyter notebook in the [`notebooks`](./notebooks) folder.
     url = {https://github.com/Qiskit/textbook}, 
 }
 ```
+move to qiskit-textbook/qiskit-textbook-src/ and run:
+python setup.py install
