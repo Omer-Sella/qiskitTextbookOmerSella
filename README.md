@@ -21,3 +21,19 @@ the textbook is a Jupyter notebook in the [`notebooks`](./notebooks) folder.
     url = {https://github.com/Qiskit/textbook}, 
 }
 ```
+Start with prequisits, it has some instructions on how to set up.
+
+Check how to register your ipython kernel, as shown here:
+
+https://towardsdatascience.com/get-your-conda-environment-to-show-in-jupyter-notebooks-the-easy-way-17010b76e874/
+move to qiskit-textbook/qiskit-textbook-src/ and run:
+python setup.py install
+
+
+Start with the notebooks under intro
+
+Then ch-states
+Then ch-gates
+Then ch-algorithms
+
+Then 
